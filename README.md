@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sahan
-- 👀 I’m interested in web developing and programming
 - 🌱 I’m a Front End Developer.
 
 <!---
